@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "836041533921",
+    "project_id": "uprintv2",
+    "storage_bucket": "uprintv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836041533921:android:118dfc701c4908abf34aa0",
+        "android_client_info": {
+          "package_name": "com.dev.uprintv21"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836041533921-ngiaufvljaoitrcrr7c9juoun5nkjht7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.uprintv21",
+            "certificate_hash": "b604a083229bd982888274652f84952e57c8d06a"
+          }
+        },
+        {
+          "client_id": "836041533921-0fjt79fi58a3s19m7ua9h96qi44c9m0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXAxZgGRUyYACoHjJNk5ORkf0e-B8OcTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836041533921-0fjt79fi58a3s19m7ua9h96qi44c9m0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
